@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/28 11:55:03.000.649,C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUCDataConnector_XE2.dproj=C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUCDataConnector.dproj</Transaction>
+    <Transaction>2013/04/17 11:49:54.000.218,D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUCDataConnector_XE3.dproj=D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUCDataConnector_XE2.dproj</Transaction>
+    <Transaction>2013/09/30 00:46:19.000.839,D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\pckUCDataConnector_XE3.dproj=D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\pckUCDataConnector_XE5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

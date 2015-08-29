@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/12 23:42:26.000.802,=pckUserControl_RT_XE4.dcp</Transaction>
+    <Transaction>2013/06/12 23:42:26.000.796,=pckUCDataConnector_XE4.dcp</Transaction>
+    <Transaction>2013/06/12 23:46:03.000.989,=dac180.dcp</Transaction>
+    <Transaction>2013/06/12 23:46:04.000.020,=AnyDAC_ComI_D18.dcp</Transaction>
+    <Transaction>2013/06/12 23:46:04.000.004,=AnyDAC_Phys_D18.dcp</Transaction>
+    <Transaction>2013/06/12 23:46:04.000.033,=AnyDAC_Comp_D18.dcp</Transaction>
+    <Transaction>2013/06/12 23:47:11.000.894,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCUniDACConn.pas=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCFireDACConn.pas</Transaction>
+    <Transaction>2013/06/12 23:47:19.000.713,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCUniDACConnReg.pas=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCFireDACConnReg.pas</Transaction>
+    <Transaction>2013/06/13 21:45:49.000.444,=pckUCDataConnector_XE3.dcp</Transaction>
+    <Transaction>2013/06/13 21:45:49.000.448,=pckUserControl_RT_XE3.dcp</Transaction>
+    <Transaction>2013/06/13 21:45:59.000.847,=AnyDAC_Comp_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:45:59.000.839,=AnyDAC_ComI_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:45:59.000.831,=AnyDAC_Phys_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:38.000.776,pckUserControl_RT_XE3.dcp=</Transaction>
+    <Transaction>2013/06/13 21:46:42.000.812,AnyDAC_Comp_D18.dcp=</Transaction>
+    <Transaction>2013/06/13 21:46:42.000.799,AnyDAC_ComI_D18.dcp=</Transaction>
+    <Transaction>2013/06/13 21:46:42.000.821,AnyDAC_Phys_D18.dcp=</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.681,=AnyDAC_Comp_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.663,=AnyDAC_Phys_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.654,=dbexpress.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.671,=AnyDAC_ComI_D18.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.645,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.638,=xmlrtl.dcp</Transaction>
+    <Transaction>2013/06/13 21:46:46.000.689,=pckUserControl_DT_XE3.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:06.000.202,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:06.000.229,=FireDAC.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:06.000.243,=pckUserControl_DT_XE5.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:06.000.187,=FireDACCommon.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:06.000.216,=vclFireDAC.dcp</Transaction>
+    <Transaction>2013/09/30 00:53:46.000.162,D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\Connectors\UCFireDacCon\pckUniDacConn.dproj=D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\Connectors\UCFireDacCon\pckFireDacConn.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

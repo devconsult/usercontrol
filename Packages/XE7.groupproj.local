@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/09/30 00:46:56.000.841,D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\XE4.groupproj=D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\XE5.groupproj</Transaction>
+    <Transaction>2014/04/17 18:40:07.000.011,C:\Projetos\DevConsult\svn\Componentes\UserControl_Fork\Packages\XE5.groupproj=C:\Projetos\DevConsult\svn\Componentes\UserControl_Fork\Packages\XE6.groupproj</Transaction>
+    <Transaction>2014/09/25 23:13:32.000.134,C:\Projetos\Componentes XE7\UserControl\Componentes\UserControl_Fork\Packages\XE6.groupproj=C:\Projetos\Componentes XE7\UserControl\Componentes\UserControl_Fork\Packages\XE7.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\Desenvolvimento\svn amazon\click 360\lsiclick\componentes\UserControl_Fork\Packages\pckUserControl_DT_XE7.dproj"/>
+	</Default.Personality>
+</BorlandProject>

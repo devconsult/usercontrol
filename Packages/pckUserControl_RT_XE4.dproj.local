@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/28 11:55:04.000.160,C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUserControl_RT_XE2.dproj=C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUserControl_RT.dproj</Transaction>
+    <Transaction>2012/10/22 10:55:13.000.846,=pckUCDataConnector_XE2.dcp</Transaction>
+    <Transaction>2013/04/17 11:49:58.000.517,D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUserControl_RT_XE3.dproj=D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUserControl_RT_XE2.dproj</Transaction>
+    <Transaction>2013/06/11 00:05:37.000.445,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\pckUserControl_RT_XE3.dproj=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\pckUserControl_RT_XE4.dproj</Transaction>
+    <Transaction>2013/06/11 00:09:27.000.072,=pckUCDataConnector_XE4.dcp</Transaction>
+    <Transaction>2013/06/11 00:10:48.000.712,=pckUserControl_DT_XE4.dcp</Transaction>
+    <Transaction>2013/06/11 00:11:04.000.746,pckUserControl_DT_XE4.dcp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\UserControl XE3"/>
+    <File Path="..\Source"/>
+    <File Path="..\Source\EnvMsgForm_U.pas"/>
+    <File Path="..\Source\IncPerfil_U.pas"/>
+    <File Path="..\Source\IncUser_U.pas"/>
+    <File Path="..\Source\LoginWindow_U.pas"/>
+    <File Path="..\Source\MsgRecForm_U.pas"/>
+    <File Path="..\Source\MsgsForm_U.pas"/>
+    <File Path="..\Source\pUCFrame_Log.pas"/>
+    <File Path="..\Source\pUCFrame_Log.dfm"/>
+    <File Path="..\Source\pUCFrame_Profile.pas"/>
+    <File Path="..\Source\pUCFrame_User.pas"/>
+    <File Path="..\Source\pUcFrame_UserLogged.pas"/>
+    <File Path="..\Source\pUcFrame_UserLogged.dfm"/>
+    <File Path="..\Source\pUCGeral.pas"/>
+    <File Path="..\Source\SenhaForm_U.pas"/>
+    <File Path="..\Source\TrocaSenha_U.pas"/>
+    <File Path="..\Source\UCALSMTPClient.pas"/>
+    <File Path="..\Source\UCBase.pas"/>
+    <File Path="..\Source\UcConsts_Language.pas"/>
+    <File Path="..\Source\UCDataInfo.pas"/>
+    <File Path="..\Source\UCEMailForm_U.pas"/>
+    <File Path="..\Source\UCMail.pas"/>
+    <File Path="..\Source\UCMessages.pas"/>
+    <File Path="..\Source\UCSettings.pas"/>
+    <File Path="..\Source\UserPermis_U.pas"/>
+    <File Path="dbexpress.dcp"/>
+    <File Path="dbrtl.dcp"/>
+    <File Path="DbxCommonDriver.dcp"/>
+    <File Path="designide.dcp"/>
+    <File Path="dsnap.dcp"/>
+    <File Path="inet.dcp"/>
+    <File Path="pckUCDataConnector_XE4.dcp"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vcldb.dcp"/>
+    <File Path="vclimg.dcp"/>
+    <File Path="VclSmp.dcp"/>
+    <File Path="vclx.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>

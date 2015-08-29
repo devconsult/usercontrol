@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/12 23:47:11.000.894,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCUniDACConn.pas=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCFireDACConn.pas</Transaction>
+    <Transaction>2013/06/12 23:47:19.000.713,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCUniDACConnReg.pas=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\Connectors\UCFireDacCon\UCFireDACConnReg.pas</Transaction>
+    <Transaction>2013/09/30 00:53:46.000.162,D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\Connectors\UCFireDacCon\pckUniDacConn.dproj=D:\Desenvolvimento\Componentes\Componentes XE5\UserControl XE4\UserControl XE3\Packages\Connectors\UCFireDacCon\pckFireDacConn.dproj</Transaction>
+    <Transaction>2014/04/17 18:49:58.000.385,C:\Projetos\DevConsult\svn\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn.dproj=C:\Projetos\DevConsult\svn\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn_XE6.dproj</Transaction>
+    <Transaction>2014/09/25 23:14:26.000.862,C:\Projetos\Componentes XE7\UserControl\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn_XE6.dproj=C:\Projetos\Componentes XE7\UserControl\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn_XE7.dproj</Transaction>
+    <Transaction>2015/05/01 23:22:06.000.901,D:\Desenvolvimento\Componentes\Componentes XE8\UserControl\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn_XE8.dproj=D:\Desenvolvimento\Componentes\Componentes XE8\UserControl\Componentes\UserControl_Fork\Packages\Connectors\UCFireDacCon\pckFireDacConn_XE7.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

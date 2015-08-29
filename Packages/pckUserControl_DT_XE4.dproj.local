@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/28 11:55:04.000.307,C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUserControl_DT.dproj=C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\Componentes\UC 2.30\Packages\pckUserControl_DT_XE2.dproj</Transaction>
+    <Transaction>2012/02/28 13:08:54.000.386,=dsnap.dcp</Transaction>
+    <Transaction>2012/02/28 13:08:54.000.411,=RaizeComponentsVcl.dcp</Transaction>
+    <Transaction>2012/02/28 13:08:54.000.404,=dbexpress.dcp</Transaction>
+    <Transaction>2012/02/28 13:08:54.000.417,=RaizeComponentsVclDb.dcp</Transaction>
+    <Transaction>2012/02/28 13:08:54.000.397,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2012/10/22 10:55:18.000.048,=pckUCDataConnector_XE2.dcp</Transaction>
+    <Transaction>2013/04/17 11:50:02.000.782,D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUserControl_DT_XE3.dproj=D:\MSI\Componentes\trunk\UserControl XE2\Packages\pckUserControl_DT_XE2.dproj</Transaction>
+    <Transaction>2013/06/11 00:05:32.000.875,C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\pckUserControl_DT_XE3.dproj=C:\Desenvolvimento\Componentes\Proteção\UserControl XE3\Packages\pckUserControl_DT_XE4.dproj</Transaction>
+    <Transaction>2013/06/11 00:09:11.000.256,=pckUCDataConnector_XE4.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

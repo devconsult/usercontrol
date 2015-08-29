@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{84F52488-0F92-468B-A73B-AECB3D8F5B20}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="pckFireDacConn.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="pckFireDacConn">
+        <MSBuild Projects="pckFireDacConn.dproj"/>
+    </Target>
+    <Target Name="pckFireDacConn:Clean">
+        <MSBuild Projects="pckFireDacConn.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="pckFireDacConn:Make">
+        <MSBuild Projects="pckFireDacConn.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="pckFireDacConn"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="pckFireDacConn:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="pckFireDacConn:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

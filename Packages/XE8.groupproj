@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{DC4B4C3C-631F-4DE1-B961-9B303F5E7483}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="pckUCDataConnector_XE8.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="pckUserControl_DT_XE8.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="pckUserControl_RT_XE8.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="pckUCDataConnector_XE8">
+        <MSBuild Projects="pckUCDataConnector_XE8.dproj"/>
+    </Target>
+    <Target Name="pckUCDataConnector_XE8:Clean">
+        <MSBuild Projects="pckUCDataConnector_XE8.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="pckUCDataConnector_XE8:Make">
+        <MSBuild Projects="pckUCDataConnector_XE8.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="pckUserControl_DT_XE8">
+        <MSBuild Projects="pckUserControl_DT_XE8.dproj"/>
+    </Target>
+    <Target Name="pckUserControl_DT_XE8:Clean">
+        <MSBuild Projects="pckUserControl_DT_XE8.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="pckUserControl_DT_XE8:Make">
+        <MSBuild Projects="pckUserControl_DT_XE8.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="pckUserControl_RT_XE8">
+        <MSBuild Projects="pckUserControl_RT_XE8.dproj"/>
+    </Target>
+    <Target Name="pckUserControl_RT_XE8:Clean">
+        <MSBuild Projects="pckUserControl_RT_XE8.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="pckUserControl_RT_XE8:Make">
+        <MSBuild Projects="pckUserControl_RT_XE8.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="pckUCDataConnector_XE8;pckUserControl_DT_XE8;pckUserControl_RT_XE8"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="pckUCDataConnector_XE8:Clean;pckUserControl_DT_XE8:Clean;pckUserControl_RT_XE8:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="pckUCDataConnector_XE8:Make;pckUserControl_DT_XE8:Make;pckUserControl_RT_XE8:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
